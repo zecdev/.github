@@ -2,7 +2,18 @@
 Here you will find projects, resources and tools created and maintained 
 in the context of the (Zcash) Developer Relations Engineer grant.
 
-ZecDev is maintained by @pacu. 
+A foreword from its maintainer (@pacu)
+> I’m an admirer of @defuse's work. As a Zcash community member, I honestly believe Taylor has been the greatest ZCG grantee of all times. His work combined dedication, humbleness, methodology, commitment, openness, transparency and professionalism. “ZecSec” is not only a legacy other teams like Least Authority are building on, but also a beacon we all should be inspired by.
+>
+>
+> ZecDev is inspired on [ZecSec](https://zecsec.com/). I always felt that the project I have the privilege to work in needed a better place than my own github profile. I may have developed those tools, but I did so because of, thanks to and for the Zcash community. These tools and resources belong to our beloved ecosystem and I feel that them being under `github/pacu` does not give Zcashers enough credit. 
+>
+> 
+> Github Organizations allow broader contributions. This will let these tools to have a better place to grow. This is like moving small plants to a bigger flowerpot so they can flourish and grow bigger and stronger!
+>
+> 
+> You are all welcome to contribute to the projects hosted under ZecDev! let's keep building the Zcash we want to see in the world
+
 
 ### Contributing
 ZecDev is built in public. Browse the different repost within ZecDev,
