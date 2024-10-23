@@ -1,4 +1,9 @@
-## Welcome to ZecDev.org
+
+
+# Welcome to ZecDev.org
+<img width=300 src=https://github.com/user-attachments/assets/b0dedb72-1ad8-41c4-bf4e-7d37cbad626b/>
+
+
 Here you will find projects, resources and tools created and maintained 
 in the context of the (Zcash) Developer Relations Engineer grant.
 
@@ -49,3 +54,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+Logo designed by @mine from Zcash Brazil 
